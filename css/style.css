@@ -8143,8 +8143,9 @@ body {
   color: rgba(255, 255, 255, 0.4);
   background-size: cover;
   background-repeat: no-repeat;
-  background: #1b1b1b;
-  background: url(../images/use_your_illusion.png); }
+  background: #adacab;
+  /* background: url(../images/use_your_illusion.png);  */
+}
   body.menu-show {
     overflow: hidden;
     position: fixed;
